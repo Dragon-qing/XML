@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<studnets>
+    <student number="0001">
+        <name id="1">
+
+            <xing>张</xing>
+            <ming>三</ming>
+        </name>
+        <age>15</age>
+        <sex>male</sex>
+    </student>
+    <student number="0002">
+        <name>jack</name>
+        <age>18</age>
+        <sex>male</sex>
+    </student>
+    <student number="0003">
+        <name id="123">rose</name>
+        <age >17</age>
+        <sex>female</sex>
+    </student>
+</studnets>

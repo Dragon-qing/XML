@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE students SYSTEM "D:\code\Idea\21.09.08\XML\src\dtd\student.dtd">
+<students>
+    <student number="S001">
+        <name>zhangsan</name>
+        <age>15</age>
+        <sex>male</sex>
+    </student>
+    <student number="S002">
+        <name>lisi</name>
+        <age>16</age>
+        <sex>male</sex>
+    </student>
+</students>
